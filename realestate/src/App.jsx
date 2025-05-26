@@ -1,3 +1,4 @@
+import Companies from "./components/companies/Companies";
 import Header from "./components/header/Header";
 import Hero from "./components/Hero/Hero";
 import "./app.css";
@@ -10,6 +11,7 @@ function App() {
         <Header />
         <Hero />
       </div>
+      <Companies />
     </div>
   );
 }
