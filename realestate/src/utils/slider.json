@@ -1,38 +1,68 @@
 [
   {
-    "name": "Aliva Priva Jardin",
+    "name": "Moon Valley",
     "price": "47,043",
-    "detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
-    "image": "./r1.png"
+    "detail": "Ole Kejuado Road Kileleshwa",
+    "image": "./r1.jpg"
   },
   {
-    "name": "Asatti Garden City",
+    "name": "Siaya Park",
     "price": "66,353",
-    "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
-    "image": "./r2.png"
+    "detail": " Oloitoktok road. ",
+    "image": "./r2.jpg"
   },
   {
-    "name": "Citralan Puri Serang",
+    "name": "Meadow Springs.",
     "price": "35,853",
-    "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
-    "image": "./r3.png"
+    "detail": "Karen End",
+    "image": "./r3.jpg"
   },
   {
-    "name": "Aliva Priva Jardin",
+    "name": "Ngong View Estate",
     "price": "47,043",
-    "detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
-    "image": "./r1.png"
+    "detail": "Along Ngong Road , Karen",
+    "image": "./r4.jpg"
   },
   {
-    "name": "Asatti Garden City",
+    "name": "Muthaiga Woods",
     "price": "66,353",
-    "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
-    "image": "./r2.png"
+    "detail": "Karura Ave, Nairobi",
+    "image": "./r5.jpg"
   },
   {
-    "name": "Citralan Puri Serang",
+    "name": "Kijani Ridge",
     "price": "35,853",
-    "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
-    "image": "./r3.png"
+    "detail": "Off Ruiru Kamiti Road, Ngenda Rd, Ruiru",
+    "image": "./r7.jpg"
+  },
+  {
+    "name": "Tatu View Court",
+    "price": "35,853",
+    "detail": "RVQR+5GC, Unnamed Road, Tatu City",
+    "image": "./r6.jpg"
+  },
+  {
+    "name": "Lukenya Getaway",
+    "price": "35,853",
+    "detail": "H23V+2J, Athi River",
+    "image": "./r10.jpg"
+  },
+  {
+    "name": "CHUNA ESTATE",
+    "price": "35,853",
+    "detail": "Nairobi - Namanga Rd, Kitengela",
+    "image": "./r14.jpg"
+  },
+  {
+    "name": "Fountain View",
+    "price": "35,853",
+    "detail": "New Valley Rd, Kitengela",
+    "image": "./r9.jpg"
+  },
+  {
+    "name": "Kitengela Plains",
+    "price": "35,853",
+    "detail": "9WR6+XVM, Olooloitikosh",
+    "image": "./r3.jpg"
   }
 ]
