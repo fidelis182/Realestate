@@ -1,4 +1,4 @@
-r-container {
+.r-container {
   overflow: hidden;
 }
 .r-head {
@@ -9,13 +9,16 @@ r-container {
   padding: 1rem;
   border-radius: 10px;
   max-width: max-content;
+  width: 300px;
+  height: 420px;
   margin: auto;
   transition: all 300ms ease-in;
 }
-.r-card > img {
+.r-card img {
   width: 100%;
-  max-width: 15rem;
-  border-radius: 20px;
+  height: 180px;
+  object-fit: cover;
+  border-radius: 8px;
 }
 .r-card > :nth-child(2) {
   font-size: 2rem;
@@ -40,4 +43,22 @@ r-container {
 }
 .Swiper-horizontal {
   overflow: visible;
+}
+.slider-wrapper {
+  position: relative;
+}
+.r-buttons {
+  position: absolute;
+  gap: 1rem;
+  top: 0.4rem;
+  right: 0;
+}
+.r-buttons button {
+  font-size: 1.2rem;
+  padding: 0.2rem 0.8rem;
+  color: blue;
+  border: none;
+  border-radius: 5px;
+  background-color: white;
+  cursor: pointer;
 }
