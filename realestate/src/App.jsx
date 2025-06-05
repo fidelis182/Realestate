@@ -5,6 +5,7 @@ import "./app.css";
 import Residence from "./components/residence/Residence";
 import Value from "./components/Value/Value";
 import Contact from "./components/contact/Contact";
+import Banner from "./components/Banner/Banner";
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
       <Residence />
       <Value />
       <Contact />
+      <Banner />
     </div>
   );
 }
