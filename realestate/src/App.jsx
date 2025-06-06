@@ -6,6 +6,7 @@ import Residence from "./components/residence/Residence";
 import Value from "./components/Value/Value";
 import Contact from "./components/contact/Contact";
 import Banner from "./components/Banner/Banner";
+import Footer from "./components/Footer/Footer";
 
 function App() {
   return (
@@ -20,6 +21,7 @@ function App() {
       <Value />
       <Contact />
       <Banner />
+      <Footer />
     </div>
   );
 }
