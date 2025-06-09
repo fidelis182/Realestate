@@ -41,19 +41,21 @@
   scale: 1.025;
   box-shadow: 0px 72px 49px -51px rgba(136, 160, 255, 0.21);
 }
-.Swiper-horizontal {
+.swiper-horizontal {
   overflow: visible;
 }
+
 .slider-wrapper {
   position: relative;
+  overflow: visible;
 }
 .r-buttons {
   position: absolute;
   gap: 1rem;
-  top: 0.4rem;
+  top: 0.2rem;
   right: 0;
 }
-.r-buttons button {
+.r-buttons > button {
   font-size: 1.2rem;
   padding: 0.2rem 0.8rem;
   color: blue;

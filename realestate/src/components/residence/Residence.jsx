@@ -13,7 +13,7 @@ export default function Residence() {
           <span className="primaryText">Popular Estates/Apartments</span>
         </div>
 
-        <Swiper {...sliderSettings} className="swiper-wrapper">
+        <Swiper {...sliderSettings} className="slider-wrapper">
           <SlideButtons />
           {data.map((card, i) => (
             <SwiperSlide key={i}>
@@ -36,6 +36,7 @@ export default function Residence() {
 // the buttons are unclikable
 const SlideButtons = () => {
   const swiper = useSwiper();
+  console.log("swiper instance:", swiper);
   return (
     <div className="flexCenter r-buttons">
       <button onClick={() => swiper.slidePrev()}>&lt;</button>
