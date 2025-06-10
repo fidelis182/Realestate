@@ -40,5 +40,15 @@
   fill: var(--blue);
 }
 .accordionButton.primaryText {
-  font-size: 1rem;
+  font-size: 1.1rem;
+}
+@media (max-width: 1024px) {
+  .v-container {
+    flex-direction: column;
+  }
+  @media (pxmax-width: 768px) {
+    .accordionbutton .primarytext {
+      font-size: 0.1rem;
+    }
+  }
 }
