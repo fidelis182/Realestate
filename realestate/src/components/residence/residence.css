@@ -52,8 +52,9 @@
 .r-buttons {
   position: absolute;
   gap: 1rem;
-  top: 0.2rem;
+  top: 1rem;
   right: 0;
+  z-index: 99;
 }
 .r-buttons > button {
   font-size: 1.2rem;
